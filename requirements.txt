@@ -7,4 +7,3 @@ scikit-learn
 surprise
 underthesea
 statistics
-nltk
